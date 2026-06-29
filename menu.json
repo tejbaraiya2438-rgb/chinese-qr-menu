@@ -1,0 +1,86 @@
+{
+  "Soup": [
+    {
+      "name": "Munchow Soup",
+      "price": 80,
+      "image": "images/qr_soup/soup_1.jpg"
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 80,
+      "image": "images/qr_soup/soup_2.jpg"
+    }
+  ],
+
+  "Noodles": [
+    {
+      "name": "Manchurian Noodles",
+      "price": 120,
+      "image": "images/qr_noodles/noodles_1.jpg"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 120,
+      "image": "images/qr_noodles/noodles_2.jpg"
+    },
+    {
+      "name": "Paneer Manchurian Noodles",
+      "price": 140,
+      "image": "images/qr_noodles/noodles_3.jpg"
+    },
+    {
+      "name": "Schezwan Noodles",
+      "price": 130,
+      "image": "images/qr_noodles/noodles_4.jpg"
+    }
+  ],
+
+  "Rice": [
+    {
+      "name": "Manchurian Rice",
+      "price": 120,
+      "image": "images/qr_rice/rice_1.jpg"
+    },
+    {
+      "name": "Fried Rice",
+      "price": 110,
+      "image": "images/qr_rice/rice_2.jpg"
+    },
+    {
+      "name": "Paneer Manchurian Rice",
+      "price": 140,
+      "image": "images/qr_rice/rice_3.jpg"
+    },
+    {
+      "name": "Schezwan Rice",
+      "price": 130,
+      "image": "images/qr_rice/rice_4.jpg"
+    }
+  ],
+
+  "Manchurian": [
+    {
+      "name": "Dry Manchurian",
+      "price": 130,
+      "image": "images/qr_manchurian/Manchurian_1.jpg"
+    },
+    {
+      "name": "Gravy Manchurian",
+      "price": 140,
+      "image": "images/qr_manchurian/Manchurian_2.jpg"
+    }
+  ],
+
+  "Special": [
+    {
+      "name": "Paneer Chili",
+      "price": 150,
+      "image": "images/qr_special/special_1.jpg"
+    },
+    {
+      "name": "Manchurian Bhel",
+      "price": 100,
+      "image": "images/qr_special/special_2.jpg"
+    }
+  ]
+}
