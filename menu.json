@@ -2,12 +2,14 @@
   "Soup": [
     {
       "name": "Munchow Soup",
-      "price": 80,
+      "half": "60",
+  "full": "100",
       "image": "images/qr_soup/soup_1.jpg"
     },
     {
       "name": "Hot & Sour Soup",
-      "price": 80,
+      "half": "60",
+  "full": "100",
       "image": "images/qr_soup/soup_2.jpg"
     }
   ],
@@ -90,7 +92,8 @@
     },
     {
       "name": "Manchurian Bhel",
-      "price": 100,
+      "half": "60",
+  "full": "100",
       "image": "images/qr_special/special_2.jpg"
     }
   ]
