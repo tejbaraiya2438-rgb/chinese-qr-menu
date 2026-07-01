@@ -42,8 +42,14 @@ fetch("menu.json")
 
           <div class="card-content">
             <h3>${item.name}</h3>
-            <p>₹${item.price}</p>
-          </div>
+    ${
+        item.half
+        ? `<p><strong>Half:</strong> ₹${item.half}</p>`
+        : ""
+    }
+
+    <p><strong>Full:</strong> ₹${item.full}</p>
+</div>
         `;
 
         section.appendChild(card);
