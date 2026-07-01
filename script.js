@@ -77,7 +77,7 @@ footer.innerHTML = `
   <h2>Bulk Orders & Party Orders</h2>
 
   <a href="tel:+91XXXXXXXXXX" class="phone-link">
-    <i class="fa-solid fa-phone"></i> +91 XXXXXXXXXX
+    <i class="fa-solid fa-phone"></i> +91 9601812074
   </a>
 
   <br><br>
